@@ -1,0 +1,23 @@
+*{
+    padding: 2px;
+    margin: 0px;
+}
+.span1{
+    padding: 10px;
+    opacity: 0.6;
+}
+nav{
+    padding: 5px;
+    display: flex;
+}
+
+#nav1{
+    padding-left: 65%;
+    
+}
+#image{
+    background-image:url(./images/favicon-32x32.png);
+    height: 100%;
+    width: 100%;
+}
+
