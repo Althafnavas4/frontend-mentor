@@ -2,6 +2,8 @@
     padding: 2px;
     margin: 0px;
 }
+
+
 .span1{
     padding: 10px;
     opacity: 0.6;
@@ -15,9 +17,74 @@ nav{
     padding-left: 65%;
     
 }
-#image{
-    background-image:url(./images/favicon-32x32.png);
-    height: 100%;
-    width: 100%;
+.img1{
+    margin-top: 10px;
+    margin-left: 60px;
+    
+    
 }
+.bg1{
+    display: flex;
+}
+#box{
+    background-color: rgb(0, 0, 30);
+    display: inline-block;
+    width: 370px;
+    height: 600px;
+    margin-left: 20px ;
+    margin-top: 10px;
+}
+.bgd1{
+    font-size: 30px;
+    color: orange;
+    text-align: left;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.bgd2{
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.bgd3{
+    font-size: 20px;
+    color: white;
+    opacity: 0.6;
+    margin-left: 10px;
+    
+}
+.bgd4{
+    color: white;
+    margin-left: 20px;
+}
+.fount{
+    color:black;
+    font-size: 70px;
+    margin-top: -200px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+#fount0{
+    display: flex;
+    
+}
+.fount2{
+    color: black;
+    font-size: 23px;
+    margin-top: -200px;
+    margin-left: 100px;
+    opacity: 0.6;
+
+}
+#button{
+    background-color: tomato;
+    color: black;
+    width: 100px;
+     margin-left: 800px;
+    margin-top: -600px;
+    
+}
+
+    
 
