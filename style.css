@@ -85,49 +85,46 @@ nav{
     
     
 }
-#cmp{
-    display: flex;
-}
-
-.num{
-    color: tomato;
+.img2{
+    margin-top: 100px;
     margin-left: 20px;
 }
-.pcs{
-    margin-top: 60px;
-    margin-left: -24px;
+.img3{
+    margin-top: -110px;
+    margin-left: 510px;
 }
-.sub_pc{
-    margin-top: 91px;
-    margin-left: -131px;
-    width: 185px;    
+.img4{
+    margin-left: 1060px;
+    margin-top: -100px;
 }
-.num1{
+.pic1{
+    color: black;
+    margin-left: 190px;
+    font-weight: bold;
+    margin-top: -170px;
+ 
+}
+.fsize{
     color: tomato;
-    margin-left: 20px;
+    font-size: 30px;
 }
-.lap{
-    margin-top: 60px;
-    margin-left: -24px;
+.fsize1{
+    font-size: 20px;
 }
-.sub_lap{
-    margin-top: 91px;
-    margin-left: -131px;
-    width: 185px;
+.fsize2{
+    font-size: 13px;
+    opacity: 0.6;
 }
-.num2{
-    color: tomato;
-    margin-left: 20px;
+.pic2{
+    color: black;
+    margin-left: 680px;
+    margin-top: -160px;
+    font-weight: bold;
 }
-.stick{
-    margin-top: 60px;
-    margin-left: -24px;
+.pic3{
+    color: black;
+    margin-left: 1240px;
+    margin-top: px;
+    font-weight: bold;
+    margin-top: -170px;
 }
-.sub_stick{
-    margin-top: 91px;
-    margin-left: -131px;
-    width: 185px;
-}
-
-    
-
